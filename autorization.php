@@ -13,11 +13,12 @@
       <form method="POST" action="database/db_users.php">
         <label> Логин </label>
           <input type="text" name="login" placeholder="Введите логин">
+
         <label> Пароль</label>
         <input type="password" name="password" placeholder="Введите пароль">
         <input type="submit" value="Войти">
         <p>
-              У вас нет аккаунта сотрудника? - <a href="/registeration.php">Зарегистрируйтесь</a>
+              У вас нет аккаунта сотрудника? - <a href="/registeration.php">Зарегистируйтесь</a>
           </p>
       </form>
     </div>
