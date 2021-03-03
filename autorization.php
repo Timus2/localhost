@@ -17,7 +17,7 @@
         <input type="password" name="password" placeholder="Введите пароль">
         <input type="submit" value="Войти">
         <p>
-              У вас нет аккаунта сотрудника? - <a href="/registeration.php">Зарегаааистрируйтесь</a>
+              У вас нет аккаунта сотрудника? - <a href="/registeration.php">Зарегистрируйтесь</a>
           </p>
       </form>
     </div>
