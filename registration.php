@@ -1,4 +1,6 @@
-<?php include ('database/db.php');?>
+<?php
+include ('database/db.php');
+?>
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
