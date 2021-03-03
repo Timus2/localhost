@@ -9,7 +9,7 @@ $count = mysqli_query($connection, "SELECT * FROM `users` WHERE `Login` = '$logi
 
 if(mysqli_num_rows($count) == 0)
 {
-  echo 'Вы не заригистрированны';
+  echo 'Такого пользователя не существует';
 }
 else
 {
